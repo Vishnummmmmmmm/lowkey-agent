@@ -40,7 +40,7 @@
   <a href="#-project-structure">Structure</a> &nbsp;&middot;&nbsp;
   <a href="#-roadmap">Roadmap</a> &nbsp;&middot;&nbsp;
   <a href="#-contributing">Contributing</a> &nbsp;&middot;&nbsp;
-  <a href="#contributors">Contributors</a>
+
 </p>
 
 <p align="center">
@@ -710,15 +710,7 @@ Want to contribute something bigger? Check the [Roadmap](#-roadmap) above and op
 
 ---
 
-## Contributors
 
-Thanks to everyone who has contributed to Vibe-Trading!
-
-<a href="https://github.com/HKUDS/Vibe-Trading/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HKUDS/Vibe-Trading" />
-</a>
-
----
 
 ## Disclaimer
 
