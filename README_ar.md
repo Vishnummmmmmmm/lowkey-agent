@@ -40,7 +40,7 @@
   <a href="#-هيكل-المشروع">الهيكل</a> &nbsp;&middot;&nbsp;
   <a href="#-خارطة-الطريق">خارطة الطريق</a> &nbsp;&middot;&nbsp;
   <a href="#المساهمة">المساهمة</a> &nbsp;&middot;&nbsp;
-  <a href="#المساهمون">المساهمون</a>
+
 </p>
 
 <p align="center">
@@ -640,15 +640,7 @@ Vibe-Trading هو جزء من النظام البيئي للوكلاء **[HKUDS]
 
 ---
 
-## المساهمون
 
-شكراً لكل من ساهم في Vibe-Trading!
-
-<a href="https://github.com/HKUDS/Vibe-Trading/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HKUDS/Vibe-Trading" />
-</a>
-
----
 
 ## إخلاء المسؤولية
 

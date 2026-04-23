@@ -40,7 +40,7 @@
   <a href="#-프로젝트-구조">구조</a> &nbsp;&middot;&nbsp;
   <a href="#-로드맵">로드맵</a> &nbsp;&middot;&nbsp;
   <a href="#기여하기">기여</a> &nbsp;&middot;&nbsp;
-  <a href="#기여자">기여자</a>
+
 </p>
 
 <p align="center">
@@ -638,15 +638,7 @@ Vibe-Trading은 **[HKUDS](https://github.com/HKUDS)** 에이전트 생태계의 
 
 ---
 
-## 기여자
 
-Vibe-Trading에 기여해 주신 모든 분들께 감사드립니다!
-
-<a href="https://github.com/HKUDS/Vibe-Trading/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HKUDS/Vibe-Trading" />
-</a>
-
----
 
 ## 면책조항
 

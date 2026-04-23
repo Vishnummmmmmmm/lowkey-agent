@@ -40,7 +40,7 @@
   <a href="#-プロジェクト構成">構成</a> &nbsp;&middot;&nbsp;
   <a href="#-ロードマップ">ロードマップ</a> &nbsp;&middot;&nbsp;
   <a href="#貢献">貢献</a> &nbsp;&middot;&nbsp;
-  <a href="#コントリビューター">コントリビューター</a>
+
 </p>
 
 <p align="center">
@@ -637,15 +637,7 @@ Vibe-Tradingは**[HKUDS](https://github.com/HKUDS)**エージェントエコシ�
 
 ---
 
-## コントリビューター
 
-Vibe-Tradingに貢献してくださった皆さんに感謝します！
-
-<a href="https://github.com/HKUDS/Vibe-Trading/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HKUDS/Vibe-Trading" />
-</a>
-
----
 
 ## 免責事項
 

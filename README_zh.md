@@ -40,7 +40,7 @@
   <a href="#-项目结构">项目结构</a> &nbsp;&middot;&nbsp;
   <a href="#-路线图">路线图</a> &nbsp;&middot;&nbsp;
   <a href="#贡献指南">贡献</a> &nbsp;&middot;&nbsp;
-  <a href="#贡献者">贡献者</a>
+
 </p>
 
 <p align="center">
@@ -637,15 +637,7 @@ Vibe-Trading 属于 **[HKUDS](https://github.com/HKUDS)** 代理生态的一部�
 
 ---
 
-## 贡献者
 
-感谢所有为 Vibe-Trading 做出贡献的人！
-
-<a href="https://github.com/HKUDS/Vibe-Trading/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=HKUDS/Vibe-Trading" />
-</a>
-
----
 
 ## 免责声明
 
