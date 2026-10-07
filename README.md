@@ -46,6 +46,7 @@
 9. [🔌 FastMCP Integration (Claude Desktop & Cursor)](#-fastmcp-integration-claude-desktop--cursor)
 10. [🔒 Security, Sandboxing & Production Hardening](#-security-sandboxing--production-hardening)
 11. [🏆 Innovation Context & Quantitative Impact Thesis](#-innovation-context--quantitative-impact-thesis)
+12. [🔮 Future Development & Research Roadmap](FUTURE_DEVELOPMENT.md)
 
 ---
 
@@ -491,6 +492,19 @@ Supreme Trading AGI bridges the vast divide between institutional quantitative r
 Global retail and proprietary traders lose billions annually due to **untested intuitions, emotional cognitive biases, and lack of institutional validation tools**. Elite quant firms succeed because they employ distinct teams: *data engineers, quantitative researchers, risk controllers, and execution specialists*.
 
 **Supreme Trading AGI synthesizes this entire hedge fund structure into software.** Every trading hypothesis is adversarial debated by an AI Swarm, executed against real market data without mathematical hallucination, verified via 10,000 Monte Carlo paths, and exported in production-ready code — all in sub-second response times.
+
+---
+
+## 🔮 Future Development & Research Roadmap
+
+For the comprehensive technical specification on boosting engine performance, bidirectional TradingView webhook execution, and streaming Hugging Face financial corpora, see [**FUTURE_DEVELOPMENT.md**](FUTURE_DEVELOPMENT.md):
+
+- **⚡ Boosting the Engine:** Migrating to **Ray & Celery distributed worker meshes**, vector database acceleration (**Qdrant & Redis Semantic Cache** for <15ms responses), and 10x faster **Polars / Columnar Parquet caching**.
+- **📈 Deep TradingView API Integration:** Production **FastAPI Webhook Listener** (`/api/v1/tradingview/webhook`) with HMAC authentication, automated **Pine Script v6 alert generation**, and **React 19 Advanced Charting Widgets** with SMC order block overlays.
+- **🤗 Hugging Face Financial Data & Models:** Programmatic dataset streaming for **FinGPT sentiment, SEC 10-K/10-Q reports, and financial news**, alongside local offline deployment of **FinBERT** and **LoRA fine-tuned strategy coders**.
+- **🔬 Frontier Quantitative R&D:** **Reinforcement Learning (PPO/SAC)** for order-slicing execution, **Nash Equilibrium game-theoretic multi-agent swarm debates**, and **High-Frequency Level 2/Level 3 Order Book Imbalance (OBI) & Cumulative Volume Delta (CVD)**.
+
+👉 **Read the complete guide & code blueprints:** [**FUTURE_DEVELOPMENT.md**](FUTURE_DEVELOPMENT.md)
 
 ---
 
